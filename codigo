@@ -25,7 +25,7 @@
         <div class="prueba menu">
             <h2><center>Encabezado nivel 2</center></h2>
             <article id="Enlace 1">
-                <p><center>Aquí va el texto del primer párrafo</center></p>
+                <p><center>Aquí va el texto del primer <b>párrafo</b> </center></p>
             </article>
             <article id="Enlace 2">
                 <p><center>Aquí va el texto del segundo párrafo</center></p>
@@ -40,6 +40,14 @@
         <div class="prueba faltaba">
             <aside>
                 <h2><center>Apartado</center></h2>
+                <p><center><b>Elige una opción</b></center></p>
+                <p><center>Opción 1</center></p>
+                <button><center>     </center></button>
+                <p><center>Opción 2</center></p>
+                <button><center>     </center></button>
+                <p><center>Opción 3</center></p>
+                <button><center>     </center></button>
+                <button><center>Enviar</center></button>
             </aside>
         </div>
     </main>
