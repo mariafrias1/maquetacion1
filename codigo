@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maquetacion 1</title>
+    <link rel="stylesheet" href="maquno.css">
+</head>
+<body style="background-color: rgb(98, 167, 167);">
+    <header>
+        <div class="encabezado">
+            <h1><span style="color:rgb(143, 170, 168);"><center>ENCABEZADO NIVEL 1</center></span> </h1>
+            <nav>
+                <ul>
+                    <li><a href="#Enlace 1">Enlace 1</a></li>
+                    <li><a href="#Enlace 2">Enlace 2</a></li>
+                    <li><a href="#Enlace 3">Enlace 3</a></li>
+                    <li><a href="#Enlace 4">Enlace 4</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="prueba menu">
+            <h2><center>Encabezado nivel 2</center></h2>
+            <article id="Enlace 1">
+                <p><center>Aquí va el texto del primer párrafo</center></p>
+            </article>
+            <article id="Enlace 2">
+                <p><center>Aquí va el texto del segundo párrafo</center></p>
+            </article>
+            <article id="Enlace 3">
+                <p><center>Aquí va el texto del tercer párrafo</center></p>
+            </article>
+            <article id="Enlace 4">
+                <p><center>Aquí va el texto del cuarto párrafo</center></p>
+            </article>
+        </div>
+        <div class="prueba faltaba">
+            <aside>
+                <h2><center>Apartado</center></h2>
+            </aside>
+        </div>
+    </main>
+    <div class="piedepagina">
+        <footer>
+            <center>Sección de información de contacto, derechos de autor, etc.,</center>
+        </footer>
+    </div>
+</body>
+</html>
