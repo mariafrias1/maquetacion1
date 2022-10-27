@@ -31,7 +31,7 @@ body, html{
 .piedepagina{
     background-color: rgba(187, 169, 3, 0.89);
     width: 99.5%;
-    height:180px;
+    height:105px;
 }
 
 li{
